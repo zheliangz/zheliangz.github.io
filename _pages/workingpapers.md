@@ -8,7 +8,6 @@ nav_order:
 display_1: [Monetary Policy]
 display_2: [Environmental Economics]
 years_1: [2022, 1950]
-display_3: [China, USA]
 horizontal: false
 ---
 
@@ -20,6 +19,7 @@ horizontal: false
 
 {%- for category in page.display_1%}
 <h2 class="category">{{ category }}</h2>
+{% assign excerptParts = post.excerpt | split: "<!-- excerpt-start -->" %}
 {%- for y in page.years_1 %}
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
@@ -30,8 +30,5 @@ horizontal: false
  <h2 class="category">{{ category }}</h2>
 {% endfor %}
 
-{%- for category in page.display_3%}
- <h2 class="category">{{ category }}</h2>
-{% endfor %}
 
 </div>
