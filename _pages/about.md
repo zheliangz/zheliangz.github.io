@@ -9,11 +9,12 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>**Contact:**</p>
+    <p style="font-size:15px; font-weight:bold">Contact 📮 </p>
     <p>Harry and Susan Seigle Hall 356</p>
     <p>College of Arts & Sciences</p>
     <p>St. Louis, MO 63105</p>
-    <p>**Email**: zhu.zheliang@wustl.edu</p>
+    <p>Email: zhu.zheliang@wustl.edu</p>
+    <br>Email: <a href="mailto:zhu.zheliang@wustl.edu" target="_blank">zhu.zheliang [at]wustl.edu </a></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
