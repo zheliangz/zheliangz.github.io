@@ -18,6 +18,6 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a Ph.D. candidate in Economics at Washington University in St. Louis. My research focuses on Macroeconomics, Monetary Policy, Information Frictions and Environment economics.
+I am a Ph.D. candidate in Economics at Washington University in St. Louis. My research focuses on Macroeconomics, Monetary Policy, Information Frictions and Environmental Economics.
 
 I am available for the 2022-2023 economic job market.
