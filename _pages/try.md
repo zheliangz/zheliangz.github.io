@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="projects">
+<div class="publications">
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
