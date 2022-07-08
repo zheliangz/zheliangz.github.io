@@ -8,6 +8,7 @@ nav_order:
 display_1: [Monetary Policy]
 display_2: [Environmental Economics]
 years_1: [2022, 1950]
+display_3: [China, USA]
 horizontal: false
 ---
 
@@ -27,7 +28,10 @@ horizontal: false
 
 {%- for category in page.display_2%}
  <h2 class="category">{{ category }}</h2>
+{% endfor %}
 
+{%- for category in page.display_3%}
+ <h2 class="category">{{ category }}</h2>
 {% endfor %}
 
 </div>
