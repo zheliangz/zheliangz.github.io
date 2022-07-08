@@ -11,16 +11,17 @@ horizontal: false
 ---
 
 <!-- pages/try.md -->
-<h2 class="category">{{ work }}</h2>
+<h2 class="category">{{ page.display_categories }}</h2>
 
 <div class="publications">
 {%- for y in page.years %}
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
+
 </div>
 
 
-<h2 class="category">{{ fun }}</h2>
+<h2 class="category">{{ page.display_categories[work] }}</h2>
 
 <div class="publications">
 {%- for y in page.years %}
