@@ -11,8 +11,7 @@ display_categories: [Monetary, Environment]
 
 ---
 <!-- _pages/workingpaper.md -->
-<div class="workingpapers">
-
+<div class="publications">
 
 {%- for y in page.years %}
   {% bibliography -f papers -q @*[year={{y}}]* %}
