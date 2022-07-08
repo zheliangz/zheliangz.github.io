@@ -18,9 +18,7 @@ horizontal: flase
 {%- for y in page.display%}
 <h2 class="topic">{{ y }}</h2>
 
-{%- for y in page.years_1 %}
-  {% bibliography -f papers -q @*[topic={{y}}]* %}
-{% endfor %}
+{% bibliography -f papers -q @*[topic={{y}}]* %}
 
 {% endfor %}
 
