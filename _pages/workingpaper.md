@@ -6,7 +6,7 @@ title: Working Papers
 description: Working papers in various topics.
 years: [2022]
 nav: false
-nav_order: 1
+nav_order: 
 
 ---
 <!-- _pages/workingpaper.md -->

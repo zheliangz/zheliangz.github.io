@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: Working Papers
       permalink: /workingpapers/
+    - title: divider
+    - title: try
+      permalink: /try/
 ---
