@@ -19,17 +19,15 @@ horizontal: false
 
 {%- for category in page.display_1%}
 <h2 class="category">{{ category }}</h2>
+</div>
 {%- for y in page.years_1 %}
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
-
-</divider>
 {% endfor %}
-
 
 
 {%- for category in page.display_2%}
  <h2 class="category">{{ category }}</h2>
- 
-</divider>
+ </div>
+
 {% endfor %}
