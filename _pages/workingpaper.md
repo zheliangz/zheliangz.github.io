@@ -3,7 +3,7 @@
 layout: page
 permalink: /workingpapers/
 title: Working Papers
-description: Working papers by categories in reversed chronological order.
+description: Working papers in various topics.
 years: [2022]
 nav: false
 nav_order: 1
