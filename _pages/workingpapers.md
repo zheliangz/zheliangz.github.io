@@ -1,13 +1,13 @@
 ---
 layout: page
-title: try
-permalink: /try/
-description: A growing collection of your cool projects.
+title: Working Papers
+permalink: /workingpapers/
+description: Working papers in various topics.
 nav: false
 nav_order:
-display_1: [work]
-display_2: [fun]
-years: [2022]
+display_1: [Monetary Economics]
+display_2: [Environmental Economics]
+years_1: [2022]
 horizontal: false
 ---
 
@@ -19,11 +19,15 @@ horizontal: false
 
 {%- for category in page.display_1%}
 <h2 class="category">{{ category }}</h2>
-{%- for y in page.years %}
+{%- for y in page.years_1 %}
   {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
 
 {% endfor %}
+{% endfor %}
+
+</div>
+</div>
+
 
 {%- for category in page.display_2%}
  <h2 class="category">{{ category }}</h2>
