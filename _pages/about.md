@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate in Economics, Washington University in St.Louis
+subtitle:
 
 profile:
   align: right
@@ -18,4 +18,6 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-This is a test message.
+I am a Ph.D. candidate in Economics at Washington University in St. Louis. My research focuses on Macroeconomics, Monetary Policy, Information Frictions and Environment economics.
+
+I am available for the 2022-2023 economic job market.
