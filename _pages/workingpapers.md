@@ -5,7 +5,7 @@ permalink: /workingpapers/
 description: Working papers in various topics.
 nav: false
 nav_order:
-display_1: [Monetary Economics]
+display_1: [Monetary Policy]
 display_2: [Environmental Economics]
 years_1: [2022]
 horizontal: false
@@ -21,15 +21,15 @@ horizontal: false
 <h2 class="category">{{ category }}</h2>
 {%- for y in page.years_1 %}
   {% bibliography -f papers -q @*[year={{y}}]* %}
-
-{% endfor %}
 {% endfor %}
 
-</div>
-</div>
+</divider>
+{% endfor %}
+
 
 
 {%- for category in page.display_2%}
  <h2 class="category">{{ category }}</h2>
-
+ 
+</divider>
 {% endfor %}
