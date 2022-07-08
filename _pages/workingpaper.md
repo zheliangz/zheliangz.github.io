@@ -7,7 +7,6 @@ description: Working papers in various topics.
 years: [2022]
 nav: false
 nav_order: 1
-display_categories: [Monetary, Environment]
 
 ---
 <!-- _pages/workingpaper.md -->
