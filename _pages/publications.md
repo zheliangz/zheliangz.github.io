@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Publications by categories in reversed chronological order.
-years: []
+years: [1950]
 nav: false
 nav_order:
 ---
