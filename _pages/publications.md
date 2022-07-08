@@ -3,7 +3,6 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Publications in various topics.
-years: []
 nav: false
 nav_order:
 ---
