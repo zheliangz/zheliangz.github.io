@@ -12,7 +12,7 @@ profile:
     <p>Harry and Susan Seigle Hall 356</p>
     <p>College of Arts & Sciences</p>
     <p>St. Louis, MO 63105</p>
-    <p>Email:zhu.zheliang@wustl.edu</p>
+    <p>Email: zhu.zheliang@wustl.edu</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
