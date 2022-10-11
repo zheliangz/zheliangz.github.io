@@ -5,7 +5,7 @@ title: Publications
 description: Publications in various topics.
 nav: false
 years: [2022]
-nav_order:
+#nav_order:
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
