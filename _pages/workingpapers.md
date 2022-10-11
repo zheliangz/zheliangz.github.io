@@ -6,7 +6,7 @@ description: Working papers in various topics.
 nav: false
 nav_order:
 display: [Monetary Economics, Environmental Economics ]
-horizontal: flase
+horizontal: false
 ---
 
 <!-- pages/try.md -->
