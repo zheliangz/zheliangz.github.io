@@ -5,7 +5,7 @@ permalink: /workingpapers/
 description: Working papers in various topics.
 nav: false
 nav_order:
-display: [Monetary Policy, Environmental Economics ]
+display: [Monetary Economics, Environmental Economics ]
 horizontal: flase
 ---
 
