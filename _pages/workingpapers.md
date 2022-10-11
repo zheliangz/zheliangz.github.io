@@ -5,8 +5,7 @@ permalink: /workingpapers/
 description: Working papers in various topics.
 nav: false
 nav_order:
-display: [Monetary Economics, Environmental Economics ]
-years:[2022]
+display: [Monetary Economics, Environmental Economics]
 horizontal: false
 ---
 
