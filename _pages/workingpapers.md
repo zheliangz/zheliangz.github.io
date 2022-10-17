@@ -10,6 +10,8 @@ horizontal: false
 ---
 
 
+
+<!-- _pages/publications.md -->
 <div class="publications">
 
 
