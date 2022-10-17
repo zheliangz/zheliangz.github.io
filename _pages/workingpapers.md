@@ -9,8 +9,6 @@ display: [Monetary Economics, Environmental Economics]
 horizontal: false
 ---
 
-<!-- pages/try.md -->
-
 
 <div class="publications">
 
