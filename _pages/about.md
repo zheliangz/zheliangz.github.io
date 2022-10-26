@@ -20,8 +20,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in Economics at Washington University in St. Louis. I received my B.S. in Economics and B.A. in Mathematics from University of Minnesota in 2017. Before that, I did coursework at University of International Business and Economics from 2012 to 2013.
+I am a Ph.D. candidate in Economics at Washington University in St. Louis. I received my B.S. in Economics and B.A. in Mathematics from University of Minnesota in 2017. 
 
-My research interest lies in Macroeconomics and Monetary Economics, Information Frictions and Environmental Economics. My current research focuses on how monetary policy information structure affects private sectors' interpretation of economic fundamentals. 
+My research interest lies in Macroeconomics and Monetary Economics, Information Frictions and Environmental Economics. My current research focuses on how monetary policy information structure affects private sectors' interpretation of economic fundamentals.
 
 I am available for the 2022-2023 economic job market.
